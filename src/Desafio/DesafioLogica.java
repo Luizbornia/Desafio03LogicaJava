@@ -7,7 +7,7 @@ public class DesafioLogica {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		int prod = 2;
+		int prod = 15;
 		double[] precoUnitProd = new double[prod];
 		int[] quantidadeProd = new int[prod];
 		char[] categoriaProd = new char[prod];
